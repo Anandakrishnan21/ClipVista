@@ -1,18 +1,15 @@
-# Getting Started with Create React App
+# Welcome to ClipVista - The ultimate Youtube Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ClipVista is a youtube video streaming website created using Rapid API in React.JS and Tailwind CSS.
 
-## Available Scripts
+## Overview
 
-In the project directory, you can run:
+ClipVista presents an exhilarating and immersive video-sharing platform, showcasing an extensive array of concise video clips spanning an eclectic range of categories. Crafted using the dynamic combination of React.js and Tailwind CSS, ClipVista redefines user experience, ensuring seamless navigation through a captivating realm of video content. Whether your interests lie in movies, comedy, Trending, or myriad other genres, ClipVista guarantees a fluid and engaging interface for all users, promising a delightful odyssey through the world of short-form videos.
 
-### `npm start`
+### Screenshot
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Screenshot 2023-08-28 112213](https://github.com/Anandakrishnan21/dk.t-youtube-react/assets/121444809/ba0a28f6-ff9e-4347-838c-22af21111c1b)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 ### `npm test`
 
