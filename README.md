@@ -8,11 +8,8 @@ ClipVista presents an exhilarating and immersive video-sharing platform, showcas
 
 ### Screenshot
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Screenshot 2023-08-28 112213](https://github.com/Anandakrishnan21/dk.t-youtube-react/assets/121444809/ba0a28f6-ff9e-4347-838c-22af21111c1b)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 ### `npm test`
 
