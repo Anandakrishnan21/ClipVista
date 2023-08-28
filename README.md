@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Welcome to DK.T - The ultimate Youtube Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+DK.T is a youtube clone website created using Rapid API in React.JS and Tailwind CSS.
 
-## Available Scripts
+## Overview
 
 In the project directory, you can run:
 
