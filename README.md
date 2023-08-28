@@ -8,9 +8,7 @@ ClipVista presents an exhilarating and immersive video-sharing platform, showcas
 
 ### Screenshot
 ![Screenshot 2023-08-28 144729 1](https://github.com/Anandakrishnan21/dk.t-youtube-react/assets/121444809/102166db-590a-49d9-a8aa-98178d01bfa1)
-![Uploading Screenshot 2023-08-28 145055.jpg…]()
 
-![Screenshot 2023-08-28 145055 1](https://github.com/Anandakrishnan21/dk.t-youtube-react/assets/121444809/4bc008fe-8636-4f4e-aa18-53526045215f)
 
 
 ## Features
