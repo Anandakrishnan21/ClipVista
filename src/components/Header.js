@@ -20,9 +20,9 @@ function Header() {
     <header className="w-full sticky top-0 z-[1] p-2 bg-black text-white">
       <div className="w-full flex items-center justify-between p-2">
         <div className="text-2xl font-semibold flex flex-row items-center gap-2">
-          <p>DK.T</p>
+          <p>Clip<span className="text-red-600">Vista</span></p>
         </div>
-        <div className="flex">
+        <div className="flex items-center justify-center">
           <div onClick={toggle}>
             {mode === "dark" ? (
               <SunIcon className="bg-black h-8" />
@@ -32,12 +32,12 @@ function Header() {
           </div>
           <form
             onSubmit={onHandleSubmit}
-            className="flex flex-row items-center"
+            className="w-8/12 md:w-full flex flex-row items-center"
           >
             <input
               type="text"
               placeholder="Search here.."
-              className="w-11/12 md:w-full h-8 p-2 flex justify-center text-black bg-white"
+              className="w-full h-8 p-2 flex justify-center text-black bg-white"
               value={searchTerm}
               onChange={(e) => setSearchTerm(e.target.value)}
             />
